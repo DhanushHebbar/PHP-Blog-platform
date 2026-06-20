@@ -8,10 +8,10 @@ session_start();
 $upload_dir = 'uploads/';
 
 // !! CREDENTIALS CORRECTED BASED ON USER'S INFINITYFREE IMAGE !!
-define('DB_HOST', 'sql211.infinityfree.com'); 
-define('DB_USER', 'if0_40096659'); 
-define('DB_PASS', 'I1h4DmZ3FRj7'); 
-define('DB_NAME', 'if0_40096659_blogproj'); 
+define('DB_HOST', '*************'); 
+define('DB_USER', '*************'); 
+define('DB_PASS', '*************'); 
+define('DB_NAME', '*************'); 
 // -------------------------------------------------------------------
 
 /**
